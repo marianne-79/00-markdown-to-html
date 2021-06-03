@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.head {
+  text-align: center;
+  padding: 32px;
+}
+
+
+
+
+body {
+
+
+}
+.footer {
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: Georgia, serif;
+  font-size: 32px;  
+}
